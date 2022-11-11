@@ -57,10 +57,6 @@ Refer to the [Vue]((https://github.com/vuejs/vue/blob/dev/.github/COMMIT_CONVENT
 
 [CHANGELOG](./CHANGELOG.md)
 
-## Contributors
-
-![GitHub Contributors Image](https://contrib.rocks/image?repo=developer-plus/vue-hbs-admin)
-
 ## LICENSE
 
 MIT, Copyright (c) 2022 Hongbusi.
